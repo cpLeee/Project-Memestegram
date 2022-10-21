@@ -20,25 +20,25 @@ This is you right now
 ## Screenshots
 
 ### Front Page
-![alt tag](https://im5.ezgif.com/tmp/ezgif-5-262894beac.gif "Home Page")
+![alt tag](https://cdn-images-1.medium.com/max/800/0*s3IX3qCyv8kAMGb3.gif "Home Page")
 
 ### Favorites Functionality
-![alt tag](https://im5.ezgif.com/tmp/ezgif-5-b55ee5ec33.gif "Favorites Page")
+![alt tag](https://cdn-images-1.medium.com/max/800/0*KR3fnbdYk1UOe04G.gif "Favorites Page")
 
 ### Comments Functionality
-![alt tag](https://im5.ezgif.com/tmp/ezgif-5-b88aaf4429.gif "Comments")
+![alt tag](https://cdn-images-1.medium.com/max/800/0*X5PUKUqDmzQqtZoY.gif "Comments")
 
 ### Filter Functionality
-![alt tag](https://im5.ezgif.com/tmp/ezgif-5-a6c9b988d7.gif "Filter")
+![alt tag](https://cdn-images-1.medium.com/max/800/0*LdZf10UGz9L1sq8-.gif "Filter")
 
 ### Search Functionality
-![alt tag](https://im5.ezgif.com/tmp/ezgif-5-d5723866a3.gif "Search")
+![alt tag](https://cdn-images-1.medium.com/max/800/0*lQlKMV8YUp77B9Ag.gif "Search")
 
 ### Add a New Meme
-![alt tag](https://im5.ezgif.com/tmp/ezgif-5-1707db64ce.gif "Add Meme")
+![alt tag](https://cdn-images-1.medium.com/max/800/0*_kIRI5BDxMAKxoYe.gif "Add Meme")
 
 ### Delete a Meme
-![alt tag](https://im5.ezgif.com/tmp/ezgif-5-fb77735c64.gif "Delete Meme")
+![alt tag](https://cdn-images-1.medium.com/max/800/0*xvfHoQOKrvUL1KNv.gif "Delete Meme")
 
 ## Tech Stack 
 - Javascript 
